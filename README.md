@@ -4,3 +4,4 @@
 ##### 自监督学习的模型权重会保存到model_weights中，accuracy和loss会保存为txt文件，如resNet18_rotation
 ##### 运行trainSupervise.py，会对CIFAR数据集进行200个epoch的有监督学习
 ##### 在进行自监督和有监督学习后，运行answer.py，对自监督和有监督的Resnet18在CIFAR10数据集的表现进行图示。
+##### data和model_weights 链接: https://pan.baidu.com/s/14tI5F1sVNdhZbtd5mz9UvA 提取码: vac9 
